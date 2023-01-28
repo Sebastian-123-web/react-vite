@@ -1,0 +1,43 @@
+/* #root {
+  --clr-bcg: #fff;
+  --clr-font: #18191a;
+  --clr-primary: #2DCDDF;
+  --clr-grey: #64768b;
+}
+.dark-theme{
+  --clr-bcg: #18191a;
+  --clr-font: #fff;
+  --clr-primary: #4baeb9;
+  --clr-grey: #cbd5e1;
+}
+
+body{
+  background: var(--clr-bcg);
+  color: var(--clr-font);
+} */
+
+
+/*
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.img-pokemon{
+    min-height: 250px;
+    max-height: 250px;
+    object-fit: contain !important;
+}
